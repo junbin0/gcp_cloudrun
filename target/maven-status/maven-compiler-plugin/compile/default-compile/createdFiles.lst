@@ -1,8 +1,0 @@
-com\example\helloworld\controller\CloudStorageController.class
-com\example\helloworld\controller\PostgresController.class
-com\example\helloworld\controller\PubsubController.class
-com\example\helloworld\datasource\ConnectorConnectionPoolFactory.class
-com\example\helloworld\controller\SecretManagerController.class
-com\example\helloworld\datasource\ConnectionPoolFactory.class
-com\example\helloworld\controller\MemoryCachedController.class
-com\example\helloworld\HelloworldApplication.class
